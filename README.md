@@ -1,5 +1,5 @@
 # DEMO
-Click this link [https://calm-babka-81d220.netlify.app/](Demo)
+Click this link https://calm-babka-81d220.netlify.app/
 
 # Getting Started with Create React App
 
